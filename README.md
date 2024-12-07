@@ -1,18 +1,13 @@
 # Wanderlust Travel Website
 
-A responsive travel website featuring destinations, packages, and booking functionality.
+An enhanced travel website with modern features and responsive design.
 
 ## Features
 
-- Responsive design
-- Interactive destination cards
-- Travel packages
-- Testimonials
-- Contact form
+- Responsive navigation
+- Destination showcase
+- Modern design
 
-## Technologies Used
+## Development
 
-- HTML5
-- CSS3
-- Responsive Design
-- Mobile-First Approach
+This project is under active development.
